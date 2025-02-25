@@ -60,7 +60,7 @@ class _Further_Part_Of_EmailwriterState extends State<Further_Part_Of_Emailwrite
             onPressed: () {
               
             },
-            icon: Icon( Icons.send_rounded ),
+            icon: Icon( Icons.send_sharp ),
           ) , 
           //bloc added later
           IconButton(
